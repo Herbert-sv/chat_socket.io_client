@@ -1,0 +1,53 @@
+.box {
+background-color: rgb(188, 232, 152);
+padding-left: 5px;
+padding-top: 5px;
+left: 300px;
+height: 1300px;
+width: 600px;
+}
+.handler{
+display:flex;
+justify-content:left;
+position:absolute;
+bottom: 0;
+
+}
+
+.handleru{
+    display:flex;
+    justify-content:left;
+    position:absolute;
+    bottom: 33px;
+    visibility: hidden;
+ }
+  
+button{
+font-size: 14px;
+ color:white;
+ background-color: green;
+ width: 50px;
+ height: 30px;
+}
+
+input{
+width: 490px;
+border-radius: 5px;
+height: 25px;
+}
+
+.infoconn{
+
+    font-size:  16px;
+    color:blue;
+
+}
+.recclient{
+
+    font-size:12px;
+    color: gray;
+}
+#emo{
+
+    font-size: 20px;
+}
